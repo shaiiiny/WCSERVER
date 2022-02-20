@@ -1,4 +1,4 @@
-/* Activity Name: secondexpress.js
+/* Activity Name: route.js
 Author Name: Santos, Jessica Shaine F.
 Section and Code: WD-202 / 2083 
 */
